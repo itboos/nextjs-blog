@@ -81,7 +81,7 @@ export default function Home({posts, testData}) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <p>updated at 2023.04.15 </p>
+      <p>updated at 2023.04.17 in develop branch </p>
       <section className={utilStyles.headingMd}>
         <p>喜欢打网球、摄影和游泳～</p>
         <p>
